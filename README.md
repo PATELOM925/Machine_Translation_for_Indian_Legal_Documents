@@ -72,6 +72,6 @@ If you’re interested in further collaboration or discussing projects at the in
 
 ## 📬 Contact
 For inquiries or further details, please reach out via email or LinkedIn:
-- **Email**: [Email](mailto:iampatelom@gmail.com)
-- **Om's LinkedIn**: [OM](https://www.linkedin.com/in/om-m-patel-b539b8213/)
-- **Aman's LinkedIn**: [Aman](https://www.linkedin.com/in/aman-k-patel-203122240/)
+- **[Email](mailto:iampatelom@gmail.com)**
+- **[Om's LinkedIn](https://www.linkedin.com/in/om-m-patel-b539b8213/)**
+- **[Aman's LinkedIn](https://www.linkedin.com/in/aman-k-patel-203122240/)**
