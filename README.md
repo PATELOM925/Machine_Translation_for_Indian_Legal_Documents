@@ -60,6 +60,7 @@ We also built a **custom legal corpus of 2,500 terms**, tailored specifically fo
 ---
 
 ## 🏛 Acknowledgments
+- **Co-Creator**: Aman Patel
 - **Mentor**: Dr. Santosh Kumar Bharti
 - **Institution**: Pandit Deendayal Energy University  
 Special thanks to everyone involved in supporting and guiding this project.
