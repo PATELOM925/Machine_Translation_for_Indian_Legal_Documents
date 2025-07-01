@@ -9,7 +9,7 @@ We also built a **custom legal corpus of 2,500 terms**, tailored specifically fo
 
 ## 🚀 Key Features
 - **Legal Corpus Development**:
-  - Curated a dataset of 1,500 Indian legal terms with annotations for translations, simplified meanings, and contextual usage.
+  - Curated a dataset of 2,500 plus Indian legal terms with annotations for translations, simplified meanings, and contextual usage.
 - **Machine Translation**:
   - Implemented multilingual translation using models like **MBART** for Indian legal texts.
 - **Legal Text Simplification**:
