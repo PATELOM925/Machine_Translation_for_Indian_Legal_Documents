@@ -23,7 +23,7 @@ We also built a **custom legal corpus of 2,500 terms**, tailored specifically fo
 
 ## 📂 Dataset
 - **Name**: Legal Corpus for Indian Legal Documents  
-- **Size**: 1,500 terms  
+- **Size**: 2,500 plus terms  
 - **Features**:
   - Legal term
   - Simplified meaning
