@@ -1,6 +1,6 @@
 # Machine Translation for Indian Legal Documents 
  
-## 📜 Project Overview
+## 📜 Overview
 This project aims to bridge the gap in legal accessibility by creating a machine translation framework for **Indian legal documents**. Our solution simplifies and translates complex legal jargon into accessible and accurate text using state-of-the-art **Natural Language Processing (NLP)** models. 
 
 We also built a **custom legal corpus of 2,500 terms**, tailored specifically for Indian legal contexts, to enhance the accuracy of translation and summarization tasks.
